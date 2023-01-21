@@ -1,0 +1,16 @@
+hostname: router1
+ip_address: 192.168.1.1
+subnet_mask: 255.255.255.0
+gateway: 192.168.1.1
+dns:
+  - 8.8.8.8
+  - 8.8.4.4
+interfaces:
+  - name: eth0
+    type: static
+    ip_address: 192.168.1.1
+    netmask: 255.255.255.0
+    status: up
+  - name: eth1
+    type: dhcp
+    status: down
