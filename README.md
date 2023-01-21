@@ -30,5 +30,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 If you have any questions or feedback, please open an issue or contact me directly at alchmistt@gmail.com .
 
+## Acknowledgements
+- Ansible
+- YAML
+
 
 
