@@ -1,0 +1,8 @@
+vpn_name: vpn1
+vpn_type: site-to-site
+local_ip: 192.168.1.1
+remote_ip: 10.0.0.1
+local_subnet: 192.168.1.0/24
+remote_subnet: 10.0.0.0/24
+encryption: AES256
+authentication: SHA1
