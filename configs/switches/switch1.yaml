@@ -1,0 +1,17 @@
+hostname: switch1
+ip_address: 192.168.1.2
+interfaces:
+  - name: eth0
+    type: access
+    vlan: 10
+    status: up
+  - name: eth1
+    type: access
+    vlan: 20
+    status: up
+  - name: eth2
+    type: trunk
+    vlans:
+      - 10
+      - 20
+    status: up
