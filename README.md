@@ -1,5 +1,5 @@
 # YAML-NetConf
-YAML-NetConf is a project that aims to automate the configuration of networks using YAML files. The project provides a set of scripts and YAML files that can be used to configure routers, switches, and other network devices, as well as set up and configure virtual private networks (VPNs) and other network services.
+**YAML-NetConf** is a project that aims to automate the configuration of networks using YAML files. The project provides a set of scripts and YAML files that can be used to configure routers, switches, and other network devices, as well as set up and configure virtual private networks (VPNs) and other network services.
 
 ## Features
 * Automates the configuration of network devices using YAML files.
