@@ -28,7 +28,7 @@ This is an open source project and contributions are welcome. If you would like 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-If you have any questions or feedback, please open an issue or contact me directly at alchmistt@gmail.com .
+If you have any questions or feedback, please open an issue .
 
 ## Acknowledgements
 - Ansible
